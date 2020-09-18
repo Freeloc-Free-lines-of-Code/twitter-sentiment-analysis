@@ -5,4 +5,4 @@ An Application made using Tweepy and TextBlob libraries with Matplotlib for Visu
 ```To convert this file to .exe format use pyinstaller package.```<br/><br/>
 
 
-![App Promo](twitter-sentimental-analysis.gif)
+![App Promo](twitter-sentiment-analysis.gif)
